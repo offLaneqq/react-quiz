@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-quiz/static/js/main.eb4816e7.js",
+    "static/media/sakura.jpg": "/react-quiz/static/media/sakura.2448ce80e10c8a00e55e.jpg",
+    "index.html": "/react-quiz/index.html",
+    "main.eb4816e7.js.map": "/react-quiz/static/js/main.eb4816e7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eb4816e7.js"
+  ]
+}
